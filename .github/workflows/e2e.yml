@@ -21,7 +21,7 @@ jobs:
         #   repository: https://github.com/ksakae1216/tribulatio
 
       - name: Cypress run
-        uses: cypress-io/github-action@v2
+        uses: cypress-io/github-action@v2.3.10
         with:
           record: true
           browser: chrome
