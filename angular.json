@@ -99,8 +99,8 @@
         "e2e": {
           "builder": "@nrwl/cypress:cypress",
           "options": {
-            "cypressConfig": "apps/consultatio-e2e/cypress.json",
-            "tsConfig": "apps/consultatio-e2e/tsconfig.e2e.json",
+            "cypressConfig": "cypress.json",
+            "tsConfig": "tsconfig.e2e.json",
             "devServerTarget": "consultatio:serve"
           },
           "configurations": {

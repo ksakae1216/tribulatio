@@ -1,0 +1,12 @@
+{
+  "fileServerFolder": "apps/consultatio-e2e",
+  "fixturesFolder": "apps/consultatio-e2e/src/fixtures",
+  "integrationFolder": "apps/consultatio-e2e/src/integration",
+  "modifyObstructiveCode": false,
+  "pluginsFile": "apps/consultatio-e2e/src/plugins/index",
+  "supportFile": "apps/consultatio-e2e/src/support/index.ts",
+  "video": true,
+  "videosFolder": "../../dist/cypress/apps/consultatio-e2e/videos",
+  "screenshotsFolder": "../../dist/cypress/apps/consultatio-e2e/screenshots",
+  "chromeWebSecurity": false
+}
